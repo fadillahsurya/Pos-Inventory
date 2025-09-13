@@ -5,4 +5,5 @@ This project aims to simplify daily store operations, making transactions faster
 role : Admin,Cashier,Supervisor,owner
 
 ## Demo Video
-[Watch Demo on Google Drive]([https://youtube.com/xxxx](https://drive.google.com/file/d/14GxR9IV13hOyg89a-eZVi7x5k2Fsr97y/view?usp=sharing))
+[Watch Demo on Google Drive]
+([https://youtube.com/xxxx](https://drive.google.com/file/d/14GxR9IV13hOyg89a-eZVi7x5k2Fsr97y/view?usp=sharing))
